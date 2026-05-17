@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+Thumbs.db
+$null
+
+# Editor
+.vscode/
+.idea/
+*.swp
