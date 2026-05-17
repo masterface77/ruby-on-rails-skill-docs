@@ -1,0 +1,24 @@
+{
+  "name": "ruby-on-rails-skill-marketplace",
+  "version": "1.0.0",
+  "description": "Marketplace da skill Ruby on Rails com segurança avançada para o Claude CLI",
+  "owner": {
+    "name": "Levi Reis",
+    "email": "masterface77@gmail.com",
+    "url": "https://github.com/masterface77"
+  },
+  "metadata": {
+    "description": "Coleção de skills especializadas em Ruby on Rails, cobrindo segurança, algoritmos, arquitetura, API, testes e deploy.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ruby-on-rails-skill",
+      "description": "Skill completa de Ruby on Rails com segurança avançada (OWASP Top 10), algoritmos, padrões de arquitetura, API REST/GraphQL, autenticação JWT, autorização Pundit, RSpec, Sidekiq, Docker e deploy seguro.",
+      "source": {
+        "url": "https://github.com/masterface77/ruby-on-rails-skill-docs"
+      },
+      "tags": ["ruby", "rails", "backend", "security", "api", "rspec", "devops", "jwt", "pundit"]
+    }
+  ]
+}

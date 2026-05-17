@@ -1,0 +1,32 @@
+{
+  "name": "ruby-on-rails-skill",
+  "version": "1.0.0",
+  "description": "Skill especializada em Ruby on Rails com segurança avançada, algoritmos, padrões de arquitetura, API REST/GraphQL e boas práticas para desenvolvimento backend Ruby.",
+  "author": {
+    "name": "Levi Reis",
+    "email": "masterface77@gmail.com",
+    "url": "https://github.com/masterface77"
+  },
+  "repository": "https://github.com/masterface77/ruby-on-rails-skill-docs",
+  "license": "MIT",
+  "tags": ["ruby", "rails", "backend", "security", "api", "rspec", "devops"],
+  "skills": [
+    {
+      "name": "ruby-on-rails",
+      "description": "Skill completa de Ruby on Rails com segurança avançada, algoritmos, padrões de arquitetura e boas práticas",
+      "path": "SKILL.md",
+      "triggers": [
+        "rails",
+        "ruby",
+        "activerecord",
+        "devise",
+        "pundit",
+        "sidekiq",
+        "hotwire",
+        "rspec",
+        "action cable",
+        "ruby on rails"
+      ]
+    }
+  ]
+}
